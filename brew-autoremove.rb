@@ -11,7 +11,7 @@ class BrewAutoremove < Formula
 
   def caveats
     <<~EOS
-      You can uninstall this formula, as `brew tap exuanbo/brew-autoremove.rb` is all that'sneeded to install Rmtree and keep it up to date.
+      You can uninstall this formula, as `brew tap exuanbo/autoremove` is all that's needed to install autoremove and keep it up to date.
     EOS
   end
 
