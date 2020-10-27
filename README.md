@@ -13,4 +13,4 @@ brew autoremove pkg_1 pkg_2
 
 ## License
 
-[MIT License](https://github.com/exuanbo/homebrew-autoremove/blob/master/LICENSE) © 2020 [Exuanbo](https://github.com/exuanbo)
+[MIT License](https://github.com/exuanbo/homebrew-autoremove/blob/main/LICENSE) © 2020 [Exuanbo](https://github.com/exuanbo)
