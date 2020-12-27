@@ -1,4 +1,4 @@
-module BrewAutoremove
+module BrewAutoRemove
   module_function
 
   def list_formula
@@ -29,5 +29,5 @@ module BrewAutoremove
   end
 end
 
-BrewAutoremove.main
+BrewAutoRemove.main
 exit 0
